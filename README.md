@@ -9,6 +9,6 @@ make simple Admin Web with `ActiveAdmin`
 `rails 7.0.4`
 ### User and Password
 #### User 
-  `admin@example.com`
+     `admin@example.com`
 #### Password
-  `password`
+     `password`
