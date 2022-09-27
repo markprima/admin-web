@@ -14,4 +14,4 @@ make simple Admin Web with `ActiveAdmin`
      password
 ## attention
 make sure your local is running
-     bin/rails db:create db:migrate db:seed
+     `bin/rails db:create db:migrate db:seed`
